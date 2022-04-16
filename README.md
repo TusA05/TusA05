@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tushar Agrawal</h1>
 <h3 align="center">A passionate CSE Student from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/tacode07](https://github.com/tacode07)
+- 👨‍💻 All of my projects are available at [https://github.com/tacode07](https://github.com/TusA05)
 
 - 📫 contact me - **gargtusu8216@gmail.com**
 
